@@ -1,0 +1,5 @@
+.menu-hover:hover{
+    background-color: #fff;
+    clip-path: circle();
+    color:rgb(36, 104, 251);
+}
